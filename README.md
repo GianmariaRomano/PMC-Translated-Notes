@@ -24,4 +24,11 @@ This repository contains translated lecture notes and codes for the **"Programma
 
 ---
 
+## 📖 Course Log
+**23 September:** Introduction to the course and to parallel computing
+**24 September:** TBA
+**30 September:** This lecture was cancelled
+
+---
+
 Feel free to contribute if you’re also taking the course or want to improve the resources! 🚀
