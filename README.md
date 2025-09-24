@@ -67,14 +67,14 @@ This repository contains translated lecture notes and codes for the **"Programma
 
 **2 December:** TBA
 
-**3 November:** TBA
+**3 December:** TBA
 
-**9 November:** TBA
+**9 December:** TBA
 
-**10 November:** TBA
+**10 December:** TBA
 
-**16 November:** TBA
+**16 December:** TBA
 
-**17 November:** TBA
+**17 December:** TBA
 
 ---
