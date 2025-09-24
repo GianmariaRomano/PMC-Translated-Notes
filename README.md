@@ -27,8 +27,54 @@ This repository contains translated lecture notes and codes for the **"Programma
 ## 📖 Course Log
 **23 September:** Introduction to the course and to parallel computing
 
-**24 September:** TBA
+**24 September:** Introduction to the C programming language
 
 **30 September:** This lecture was cancelled
+
+**1 October:** TBA
+
+**7 October:** TBA
+
+**8 October**: TBA
+
+**14 October:** TBA
+
+**15 October:** TBA
+
+**21 October:** TBA
+
+**22 October:** TBA
+
+**28 October:** TBA
+
+**29 October:** TBA
+
+**4 November:** TBA
+
+**5 November:** TBA
+
+**11 November:** TBA
+
+**12 November:** TBA
+
+**18 November:** TBA
+
+**19 November:** TBA
+
+**25 November:** TBA
+
+**26 November:** TBA
+
+**2 December:** TBA
+
+**3 November:** TBA
+
+**9 November:** TBA
+
+**10 November:** TBA
+
+**16 November:** TBA
+
+**17 November:** TBA
 
 ---
