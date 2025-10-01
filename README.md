@@ -37,13 +37,13 @@ If you are not familiar with it, here are some instructions for running a C file
 ---
 
 ## 📖 Course Log
-**23 September:** Introduction to the course and to parallel computing
+**23 September:** Introduction to the course and to parallel computing.
 
 **24 September:** Introduction to the C programming language: variables, operators, input/output activities, selective branches, iterative branches, arrays, strings, functions, pointers.
 
-**30 September:** This lecture was cancelled
+**30 September:** This lecture was cancelled.
 
-**1 October:** Introduction to the C programming language: memory allocation, struct and union types, lists
+**1 October:** Introduction to the C programming language: memory allocation, struct and union types, lists.
 
 **7 October:** TBA
 
