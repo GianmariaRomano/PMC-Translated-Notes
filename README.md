@@ -45,7 +45,7 @@ If you are not familiar with it, here are some instructions for running a C file
 
 **1 October:** Introduction to the C programming language: **memory allocation, structs, lists**.
 
-**7 October:** TBA
+**7 October:** Recap on the **von Neumann architecture** and introduction to **MPI**.
 
 **8 October**: TBA
 
