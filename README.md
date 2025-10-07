@@ -9,11 +9,11 @@ This repository contains translated lecture notes and codes for the **"Programma
 ## 📍 Course Details
 
 - **📅 Lecture Schedule:**
-  - **Tuesdays:** 17:00 – 19:00 at *Aula Magna, Regina Elena*
-  - **Wednesdays:** 14:00 – 17:00 at *Aula 11, Via Scarpa, Engineering Department*
+  - **Tuesdays:** 17:00 – 19:00 at *Aula Magna, Regina Elena*.
+  - **Wednesdays:** 14:00 – 17:00 at *Aula 11, Via Scarpa, Engineering Department*.
 
 - **🧪 Exam Structure:**
-  - A project and an oral exam covering both the project and the theoretical topics discussed throughout the lectures
+  - A project and an oral exam covering both the project and the theoretical topics discussed throughout the lectures.
 
 ---
 
@@ -23,16 +23,18 @@ The Professor uses Linux as the main terminal/compiler for the course.
 
 If you are not familiar with it, here are some instructions for running a C file in a Linux environment:
 
-1) `gcc [filename].c -o [filename]`: use this command to *compile the file and name the output executable (this comes in handy to avoid ambiguities)*
-2) `./[filename]`: use this command to *run the compiled program*
-3) `rm [filename]`: if needed, use this command to *delete the executable file*
+1) `gcc [filename].c -o [filename]`: use this command to *compile and name the executable file (this also comes in handy to avoid ambiguities)*.
+2) `./[filename]`: use this command to *run the executable file*.
+3) `rm [filename]`: if needed, use this command to *delete the executable file*.
 
 However, some APIs use different instructions for running these files:
 
-- 📮 **OpenMPI** (for message passing interfaces)
-- OpenMP (TBA)
-- PThreads (TBA)
-- CUDA (TBA)
+- 📮 **OpenMPI**
+  1) `mpicc -g -Wall -o [filename] [filename].c`: use this command to *compile the executable file*.
+  2) `mpiexec -n [processes] ./[filename]`: use this command to *run the executable file* or, by adding `ddd`, to *debug the program*.
+- 🧭 **OpenMP** (TBA)
+- 🐌 **PThreads** (TBA)
+- 🛰 **CUDA** (TBA)
 
 ---
 
