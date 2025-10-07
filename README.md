@@ -49,9 +49,9 @@ If you are not familiar with it, here are some instructions for running a C file
 
 **8 October**: TBA
 
-**14 October:** TBA
+**14 October:** This lecture was cancelled.
 
-**15 October:** TBA
+**15 October:** This lecture was cancelled.
 
 **21 October:** TBA
 
