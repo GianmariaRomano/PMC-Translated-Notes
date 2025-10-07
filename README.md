@@ -27,6 +27,13 @@ If you are not familiar with it, here are some instructions for running a C file
 2) `./[filename]`: use this command to *run the compiled program*
 3) `rm [filename]`: if needed, use this command to *delete the executable file*
 
+However, some APIs use different instructions for running these files:
+
+- 📮 **OpenMPI** (for message passing interfaces)
+- OpenMP (TBA)
+- PThreads (TBA)
+- CUDA (TBA)
+
 ---
 
 ## 🎬 Additional Information
