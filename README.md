@@ -56,7 +56,7 @@ However, some APIs use different instructions for running these files:
 
 **7 October:** Recap on the **von Neumann architecture** and introduction to **MPI**.
 
-**8 October**: TBA
+**8 October**: **Message matching** and **communication modes** in MPI.
 
 **14 October:** This lecture was cancelled.
 
