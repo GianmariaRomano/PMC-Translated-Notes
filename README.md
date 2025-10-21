@@ -42,6 +42,7 @@ However, some APIs use different instructions for running these files:
 
 - 📌 For official communications and course materials, please refer to the Moodle page of the course.
 - 📩 For any questions or clarifications, feel free to contact me directly.
+- 📈 The Professor will use a GitHub classroom to handle the exercises, which will be pushed and graded according to their correctness.
 
 ---
 
@@ -62,7 +63,7 @@ However, some APIs use different instructions for running these files:
 
 **15 October:** This lecture was cancelled.
 
-**21 October:** TBA
+**21 October:** **Parallel design strategies** (GPLS, GSLP) and **collective communication** in MPI.
 
 **22 October:** TBA
 
