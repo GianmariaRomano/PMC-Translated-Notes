@@ -53,7 +53,7 @@ However, some APIs use different instructions for running these files:
 
 **24 September:** Introduction to the C programming language: **variables, operators, input/output activities, selective branches, iterative branches, arrays, strings, functions, pointers**.
 
-**30 September:** This lecture was cancelled.
+~~**30 September:**~~ This lecture was cancelled.
 
 **1 October:** Introduction to the C programming language: **memory allocation, structs, lists**.
 
@@ -61,9 +61,9 @@ However, some APIs use different instructions for running these files:
 
 **8 October**: **Message matching** and **communication modes** in MPI.
 
-**14 October:** This lecture was cancelled.
+~~**14 October:**~~ This lecture was cancelled.
 
-**15 October:** This lecture was cancelled.
+~~**15 October:**~~ This lecture was cancelled.
 
 **21 October:** **Parallel design strategies** (GPLS, GSLP) and **collective communication** in MPI.
 
