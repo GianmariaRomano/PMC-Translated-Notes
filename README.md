@@ -43,7 +43,8 @@ However, some APIs use different instructions for running these files:
 - 📌 For official communications and course materials, please refer to the Moodle page of the course.
 - 📩 For any questions or clarifications, feel free to contact me directly.
 - 📈 The Professor will use a GitHub classroom to handle the exercises, which will be pushed and graded according to their correctness.
-     **N.B.:** For this year, the grades of the exercises will **not** impact the final grade of the exam.
+
+  **N.B.:** For this year, the grades of the exercises will **not** impact the final grade of the exam.
 
 ---
 
