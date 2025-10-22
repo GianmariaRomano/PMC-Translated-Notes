@@ -67,7 +67,7 @@ However, some APIs use different instructions for running these files:
 
 **21 October:** **Parallel design strategies** (GPLS, GSLP) and **collective communication** in MPI.
 
-**22 October:** Exercises on MPI and **evaluation of parallel programming**: scaling, **Amdahl's Law** and **Gustafson's Law**.
+**22 October:** Exercises on MPI and evaluation of parallel programming: **speed-up**, **efficiency** and **scalability**.
 
 **28 October:** TBA
 
