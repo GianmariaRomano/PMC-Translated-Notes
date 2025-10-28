@@ -73,9 +73,9 @@ However, some APIs use different instructions for running these files:
 
 **29 October:** TBA
 
-**4 November:** TBA
+~~**4 November:**~~ This lecture was cancelled.
 
-**5 November:** TBA
+~~**5 November:**~~ This lecture was cancelled.
 
 **11 November:** TBA
 
