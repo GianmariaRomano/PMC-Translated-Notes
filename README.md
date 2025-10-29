@@ -32,8 +32,9 @@ However, some APIs use different instructions for running these files:
 - 📮 **OpenMPI**
   1) `mpicc -g -Wall -o [filename] [filename].c`: use this command to *compile the executable file*.
   2) `mpiexec -n [processes] ./[filename]`: use this command to *run the executable file* or, by adding `ddd`, to *debug the program*.
-- 🧭 **OpenMP** (TBA)
 - 🐌 **PThreads** (TBA)
+  Use the `pthread_create()` function to *start the threads in the executable file*.
+- 🧭 **OpenMP** (TBA)
 - 🛰 **CUDA** (TBA)
 
 ---
@@ -71,7 +72,7 @@ However, some APIs use different instructions for running these files:
 
 **28 October:** Estimating speed-up using **Amdahl's law** and estimating scalability using **Gustafson's law**.
 
-**29 October:** TBA
+**29 October:** Introduction to **PThreads** and to **OpenMP**.
 
 ~~**4 November:**~~ This lecture was cancelled.
 
