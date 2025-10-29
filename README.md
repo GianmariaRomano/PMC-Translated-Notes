@@ -32,7 +32,8 @@ However, some APIs use different instructions for running these files:
 - 📮 **OpenMPI**
   1) `mpicc -g -Wall -o [filename] [filename].c`: use this command to *compile the executable file*.
   2) `mpiexec -n [processes] ./[filename]`: use this command to *run the executable file* or, by adding `ddd`, to *debug the program*.
-- 🐌 **PThreads** (TBA)
+- 🐌 **PThreads**
+  
   Use the `pthread_create()` function to *start the threads in the executable file*.
 - 🧭 **OpenMP** (TBA)
 - 🛰 **CUDA** (TBA)
