@@ -73,7 +73,7 @@ However, some APIs use different instructions for running these files:
 
 **28 October:** Estimating speed-up using **Amdahl's law** and estimating scalability using **Gustafson's law**.
 
-**29 October:** Introduction to **PThreads** and to **OpenMP**.
+**29 October:** Exercises on MPI and recap of **PThreads**.
 
 ~~**4 November:**~~ This lecture was cancelled.
 
