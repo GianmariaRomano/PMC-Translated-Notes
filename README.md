@@ -35,7 +35,11 @@ However, some APIs use different instructions for running these files:
 - 🐌 **PThreads**
   
   Use the `pthread_create()` function to *start the threads in the executable file*.
-- 🧭 **OpenMP** (TBA)
+- 🧭 **OpenMP**
+  1) ` gcc -g -Wall -fopenmp -o [filename] [filename].c`: use this command to *compile the executable file* in OpenMP.
+  2) `./[filename] n`: use this command to *run the executable file* using *n threads*.
+
+     **N.B.:** The scheduling order of the threads is non-deterministic.
 - 🛰 **CUDA** (TBA)
 
 ---
