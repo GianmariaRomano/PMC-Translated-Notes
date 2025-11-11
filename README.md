@@ -75,7 +75,7 @@ However, some APIs use different instructions for running these files:
 
 **22 October:** Exercises on MPI and evaluation of parallel programming: **speed-up**, **efficiency** and **scalability**.
 
-**28 October:** Estimating speed-up using **Amdahl's law** and estimating scalability using **Gustafson's law**.
+**28 October:** Estimating speed-up using **Amdahl's law** and **Gustafson's law**.
 
 **29 October:** Exercises on MPI and recap of **PThreads**.
 
