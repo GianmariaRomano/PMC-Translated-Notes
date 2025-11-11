@@ -79,13 +79,13 @@ However, some APIs use different instructions for running these files:
 
 ~~**5 November:**~~ This lecture was cancelled.
 
-**11 November:** TBA
+**11 November:** Introduction to the **OpenMP** API.
 
 **12 November:** TBA
 
-**18 November:** TBA
+~~**18 November:**~~ This lecture was cancelled.
 
-**19 November:** TBA
+~~**19 November:**~~ This lecture was cancelled.
 
 **25 November:** TBA
 
