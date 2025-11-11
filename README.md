@@ -83,7 +83,7 @@ However, some APIs use different instructions for running these files:
 
 ~~**5 November:**~~ This lecture was cancelled.
 
-**11 November:** Introduction to the **OpenMP** API.
+**11 November:** Introduction to the **OpenMP** API: **pragmas and clauses, variable scope and reductions**.
 
 **12 November:** TBA
 
