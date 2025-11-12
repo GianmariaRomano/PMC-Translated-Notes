@@ -85,7 +85,7 @@ However, some APIs use different instructions for running these files:
 
 **11 November:** Introduction to the **OpenMP** API: **pragmas and clauses, variable scope and reductions**.
 
-**12 November:** TBA
+**12 November:** Exercises and **parallel for loops**.
 
 ~~**18 November:**~~ This lecture was cancelled.
 
