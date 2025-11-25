@@ -10,5 +10,5 @@ __global__ void hello() {
 int main() {
   hello<<<1.10>>>(); // Run hello() using one block containing 10 threads.
   cudaDeviceSynchronize(); // Block until the CUDA kernel terminates.
-    return 1
+    return 1;
 }
