@@ -40,7 +40,11 @@ However, some APIs use different instructions for running these files:
   2) `./[filename] n`: use this command to *run the executable file* using *n threads*.
 
      **N.B.:** The scheduling order of the threads is non-deterministic.
-- 🛰 **CUDA** (TBA)
+- 🛰 **CUDA**
+  1) `nvcc --arch=sm_20 [filename].cu --o [filename]`: use this command to *compile the executable file* using CC 2.0.
+  2) `./[filename]`: use this command to *run the executable file*.
+
+     **N.B.:** For formality, programs containing CUDA codes are characterized by the `.cu` extension.
 
 ---
 
