@@ -91,7 +91,7 @@ However, some APIs use different instructions for running these files:
 
 ~~**19 November:**~~ This lecture was cancelled.
 
-**25 November:** TBA
+**25 November:** Introduction to **CUDA**.
 
 **26 November:** TBA
 
