@@ -46,6 +46,8 @@ However, some APIs use different instructions for running these files:
 
      **N.B.:** For formality, programs containing CUDA codes are characterized by the `.cu` extension.
 
+     **N.B.:** If your laptop does not support CUDA GPUs, you can ask the Professor to give you access to a University cluster (refer to the form shown on the November 25 lecture) or run CUDA using Google Colab (refer to last year's materials).
+
 ---
 
 ## 🎬 Additional Information
