@@ -97,7 +97,7 @@ However, some APIs use different instructions for running these files:
 
 **25 November:** Introduction to **CUDA**.
 
-**26 November:** TBA
+**26 November:** Recap on **thread scheduling in CUDA** and **memory hierarchies**.
 
 **2 December:** TBA
 
