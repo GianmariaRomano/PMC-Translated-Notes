@@ -101,7 +101,7 @@ However, some APIs use different instructions for running these files:
 
 **26 November:** Recap on **thread scheduling in CUDA** and **memory hierarchies**.
 
-**2 December:** TBA
+**2 December:** Recap on **OpenMP** and introduction to **synchronization constructs** and **data dependencies**.
 
 **3 December:** TBA
 
