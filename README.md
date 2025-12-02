@@ -101,6 +101,8 @@ However, some APIs use different instructions for running these files:
 
 **26 November:** Recap on **thread scheduling in CUDA** and **memory hierarchies**.
 
+***1 December:** Extra lecture on profiling for bottlenecks in high-performance computers*.
+
 **2 December:** Recap on **OpenMP** and introduction to **synchronization constructs** and **data dependencies**.
 
 **3 December:** TBA
