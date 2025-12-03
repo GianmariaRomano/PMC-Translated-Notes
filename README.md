@@ -105,7 +105,7 @@ However, some APIs use different instructions for running these files:
 
 **2 December:** Recap on **OpenMP** and introduction to **synchronization constructs** and **data dependencies**.
 
-**3 December:** TBA
+**3 December:** Recap of **data dependencies** for parallel loops.
 
 **9 December:** TBA
 
