@@ -107,7 +107,7 @@ However, some APIs use different instructions for running these files:
 
 **3 December:** Recap of **data dependencies** for parallel loops.
 
-**9 December:** TBA
+**9 December:** The main aspects of **caching** for **single-core** and **multicore architectures**.
 
 **10 December:** TBA
 
