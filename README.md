@@ -109,7 +109,7 @@ However, some APIs use different instructions for running these files:
 
 **9 December:** The main aspects of **caching** for **single-core** and **multicore architectures**.
 
-**10 December:** TBA
+**10 December:** The CUDA **memory hierarchy**.
 
 **16 December:** TBA
 
