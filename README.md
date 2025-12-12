@@ -19,6 +19,7 @@ This repository contains translated lecture notes and codes for the **"Programma
     - **Project performance:** 10 points.
       - The *OpenMP + MPI* implementation is worth up to 5 points.
       - The *CUDA* implementation is worth up to 5 points.
+      
       **‼ Since the code is tested on the cluster, make sure that it works on it as, otherwise, you will automatically fail the exam.**
     - **Report and analysis:** 6 points.
       - The *clarity* and *scaling analysis* are worth up to 4 points.
