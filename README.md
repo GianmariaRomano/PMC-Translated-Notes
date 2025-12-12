@@ -15,6 +15,20 @@ This repository contains translated lecture notes and codes for the **"Programma
 - **🧪 Exam Structure:**
   - A project and an oral exam covering both the project and the theoretical topics discussed throughout the lectures.
 
+    The evaluation will take the following factors into consideration:
+    - **Project performance:** 10 points.
+      - The *OpenMP + MPI* implementation is worth up to 5 points.
+      - The *CUDA* implementation is worth up to 5 points.
+      **‼ Since the code is tested on the cluster, make sure that it works on it as, otherwise, you will automatically fail the exam.**
+    - **Report and analysis:** 6 points.
+      - The *clarity* and *scaling analysis* are worth up to 4 points.
+      - The *profiling techniques* are worth up to 2 points.
+    - **Project defense:** 6 points.
+      - The explanation of the *design choices* is worth up to 3 points.
+      - Further *questions on (alternative) design choices* are worth up to 3 points.
+    - **Oral exam:** 8 points.
+    For more information, refer to the Moodle page of the course.
+
 ---
 
 ## 🚨 Executing Codes in Linux
