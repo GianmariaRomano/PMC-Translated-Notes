@@ -126,7 +126,7 @@ However, some APIs use different instructions for running these files:
 
 **10 December:** The CUDA **memory hierarchy**.
 
-**16 December:** TBA
+**16 December:** Introduction to **virtual memory management** and handling the shared memory (**bank conflicts**) and the global memory (**coalescing**).
 
 **17 December:** TBA
 
