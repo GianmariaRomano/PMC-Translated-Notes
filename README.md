@@ -128,6 +128,6 @@ However, some APIs use different instructions for running these files:
 
 **16 December:** Introduction to **virtual memory management** and handling the shared memory (**bank conflicts**) and the global memory (**coalescing**).
 
-**17 December:** TBA
+**17 December:** Performing **reductions in CUDA** and using MPI for **GPU data transfers**.
 
 ---
